@@ -2,7 +2,7 @@
 I'm a student at the University of Michigan, majoring in Computer Science and Cognitive Science. I typically work with C++/Python/Java/Elixir. I love to learn - my latest interest is front-end development, and I'm really enjoying it so far. 🚀
 
 - 🎯 I’m currently working on building a productivity tool - can't wait to share it with you!
-- 🌱 I’m currently learning React Native and Swift, and having a blast :)
+- 🌱 I’m currently learning React Native and Swift.
 - 📫 How to reach me: Always open to connecting on [LinkedIn](https://www.linkedin.com/in/mallikamiglani/)!
 
 
