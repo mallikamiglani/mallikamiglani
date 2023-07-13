@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Mallika
+I'm a student at the University of Michigan, majoring in Computer Science and Cognitive Science. I typically work with C++/Python/Java/Elixir. I love to learn - my latest interest is front-end development, and I'm really enjoying it so far. 🚀
+
+- 🎯 I’m currently working on building a productivity tool - can't wait to share it with you!
+- 🌱 I’m currently learning React Native and Swift, and having a blast :)
+- 📫 How to reach me: Always open to connecting on [LinkedIn](https://www.linkedin.com/in/mallikamiglani/)!
+
 
 <!--
 **mallikamiglani/mallikamiglani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mallikamiglani/)  
 
 Here are some ideas to get you started:
 
